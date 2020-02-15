@@ -1,0 +1,8 @@
+1. run migration
+2. add tables: institutions
+3. Add CRM
+4. Add store functions
+5. Add routes to the institute
+6. Institutions page
+7. Add ListInstitutes and AddInstitute components
+8.
